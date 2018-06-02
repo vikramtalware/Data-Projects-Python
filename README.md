@@ -1,6 +1,6 @@
 # Python Projects
 
-   [GitHub Gists Link](https://gist.github.com/vikramtalware)
+[GitHub Gists](https://gist.github.com/vikramtalware) for [Python Practice](https://www.practicepython.org/)
 
 Self motivated projects created in Python.
 
