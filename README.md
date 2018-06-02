@@ -1,6 +1,6 @@
 # Python Projects
 
-[GitHub Gists](https://gist.github.com/vikramtalware) for [Python Practice](https://www.practicepython.org/)
+[My GitHub Gists](https://gist.github.com/vikramtalware) for Python Practice!
 
 Self motivated projects created in Python.
 
