@@ -8,3 +8,6 @@
 6. [Medical Data Visualizer](https://github.com/vikramtalware/Python/tree/master/Medical%20Data%20Visualizer)
 7. [Page View Time Series Visualizer](https://github.com/vikramtalware/Python/tree/master/Page%20View%20Time%20Series%20Visualizer)
 8. [Sea Level Predictor](https://github.com/vikramtalware/Python/tree/master/Sea%20Level%20Predictor)
+
+# Data Analyis Course (FreeCodeCamp)
+1. [Data Cleaning and Analysis using Numpy, Pandas](https://www.freecodecamp.org/learn/data-analysis-with-python/)
