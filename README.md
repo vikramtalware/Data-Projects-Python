@@ -11,3 +11,4 @@
 
 # Data Analyis Course (FreeCodeCamp)
 - [Data Cleaning and Analysis using Numpy, Pandas](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+- [Certification](https://www.freecodecamp.org/certification/fcc3f639c82-c789-490f-ad2c-252a6ebbbab0/data-analysis-with-python-v7)
