@@ -1,5 +1,7 @@
-# Python Projects
+# HackerRank - Python Challenges
+- [HackerRank - Python](https://github.com/vikramtalware/Data-Projects-Python/tree/master/HackerRank)
 
+# Python Projects
 - [Rock Paper Scissors](https://github.com/vikramtalware/Python/blob/master/RockPaperScissors)
 - [Number Guessing Game](https://github.com/vikramtalware/Python/tree/master/Guessing%20Game)
 - [Password Generator](https://github.com/vikramtalware/Python/tree/master/Password%20Generator)
